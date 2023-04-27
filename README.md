@@ -8,7 +8,7 @@
 
 ### Citation
 
-If you use this model in your research, please cite:
+This article is accepted by IEEE TGRS. If you use this model in your research, please cite:
 
     @ARTICLE{xu2023,
     author={Xu, Zitai and Luo, Yisi and Wu, Bangyu and Meng, Deyu},
@@ -28,4 +28,4 @@ Seismic data often undergoes severe noise due to environmental factors, which se
 
 **Note**
 
-Pytorch
+Accepted by IEEE TGRS
