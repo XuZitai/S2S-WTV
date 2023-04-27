@@ -2,7 +2,7 @@
 
 
 [[Paper]](https://ieeexplore.ieee.org/document/10105620)
-[[Demo code]](https://github.com/XuZitai/S2S-WTV/S2S_WTV.py)
+[[Demo code]](https://github.com/XuZitai/S2S-WTV/blob/main/S2S_WTV.py)
 # Unsupervised 3D Random Noise Attenuation Using Deep Skip Autoencoder  
 
 
