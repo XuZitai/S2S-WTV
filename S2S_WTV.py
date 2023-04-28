@@ -100,7 +100,7 @@ if __name__ == "__main__":
 			
 		#Inference Strategy
 		if (itr+1)%1000 == 0:
-			model.eval()
+			model.train()
 			sum_preds = np.zeros((img.shape[0],img.shape[1],img.shape[2]))
 			#NPred is the sampling number at the inference stage
 			for j in range(NPred):
