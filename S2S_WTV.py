@@ -108,7 +108,7 @@ if __name__ == "__main__":
 				p_mtx = np.repeat(p_mtx, img.shape[0], axis=0)
 				mask = (p_mtx>p).astype(np.double)
 				img_input = img*mask
-				img_input_tensor = image_loader(img_input, device, 0, 0)
+				img_input_tensor = image_loader(img_input, device)
 				mask = np.expand_dims(np.transpose(mask,[2,0,1]),0)
 				mask = torch.tensor(mask).to(device, dtype=torch.float32)
 				img_input_tensor = model(img_input_tensor,mask)
