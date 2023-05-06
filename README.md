@@ -15,9 +15,9 @@ This article is accepted by IEEE TGRS. If you use this model in your research, p
     journal={IEEE Transactions on Geoscience and Remote Sensing}, 
     title={S2S-WTV: Seismic Data Noise Attenuation Using Weighted Total Variation Regularized Self-Supervised Learning}, 
     year={2023},
-    volume={},
+    volume={61},
     number={},
-    pages={1-1},
+    pages={1-15},
     doi={10.1109/TGRS.2023.3268554}}
      
 
